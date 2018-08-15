@@ -6,4 +6,4 @@
 * Wu, Z., and N. E. Huang (2008), Ensemble empirical mode decomposition: A noise-assisted data analysis method, Adv. Adapt. Data Anal., in press.
 
 ## Dependencies:
-* Matlab 2018 emd.m
+* Matlab R2018a *emd.m*
