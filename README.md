@@ -1,4 +1,4 @@
-# eemd-huang
+# EEMD-Huang
 *Implementing Ensemble Empirical Mode Decomposition*
 
 ## Refer to:
